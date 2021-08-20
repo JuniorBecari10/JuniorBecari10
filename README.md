@@ -1,4 +1,4 @@
-# Hi, I’m JuniorBecari10 😃
+# Hi, I’m JuniorBecari10! 😃
 
 I like programming things in Java, like games and regular programs to supply my needs. Now learning some new languages, like JavaScript and TypeScript, and for the future, like C and Assembly. I love Operating Systems.
 
