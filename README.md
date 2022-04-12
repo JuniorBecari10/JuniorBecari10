@@ -1,6 +1,6 @@
 # Hi, I’m JuniorBecari10! 😃
 
-I like programming things in Java, like games and regular programs to supply my needs. Now learning some new languages, like JavaScript and TypeScript.
+I like programming things in Java, C and some other languages, like games and regular programs to supply my needs.
 
 My real statistics are not here because my main repositories are private. You are now seeing my statistics for my **public** repositories.
 
