@@ -3,8 +3,6 @@
 # <samp>Hi, I'm Antônio!</samp>
 </div>
 <div align="center">
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=JuniorBecari10&theme=transparent&hide_border=true&&layout=compact/>
-
   💻 I love low-level computing; <br />
   💡 I'm always learning something new; <br />
   💬 I'm ready to help!
