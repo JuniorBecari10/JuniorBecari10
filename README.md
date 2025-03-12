@@ -8,9 +8,15 @@
   💬 I'm ready to help!
 
 <br />
+<br />
 
 Contact: antonioocarlos@proton.me
+
+<br />
 </div>
+
+> [!NOTE]
+> In this profile there are my complete projects. If you want to see the drafts as well, they are over here, in this organization: [Junior Drafts](https://github.com/Junior-Drafts).
 
 <div align="center">
   <img src="https://komarev.com/ghpvc?username=JuniorBecari10&label=Profile%20Views&color=2F2E41&style=flat">
