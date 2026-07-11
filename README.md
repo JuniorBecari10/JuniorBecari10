@@ -20,11 +20,8 @@ Contact: antonioocarlos@proton.me
 
 Would you like to see my dotfiles I use on my computer for daily-driving? They are [here](https://github.com/JuniorBecari10/dotfiles)!
 
+My best project so far is [lspctl](https://github.com/JuniorBecari10/lspctl).
+
 <div align="center">
   <img src="https://komarev.com/ghpvc?username=JuniorBecari10&label=Profile%20Views&color=2F2E41&style=flat">
 </div>
-
----
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=JuniorBecari10&show_icons=true&count_private=true&theme=transparent">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorBecari10&langs_count=5&theme=transparent&layout=compact">
